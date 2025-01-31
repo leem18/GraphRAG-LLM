@@ -48,7 +48,7 @@ LANGCHAIN_API_KEY=your_langchain_key
 ```
 ### 4. Run the Pipeline
 ```bash
-python3 run_rag_graph.py
+python3 scripts/run_rag_graph.py
 ```
 
 ## Explanation of Key Files
@@ -86,7 +86,7 @@ This script defines the **graph-based pipeline** using LangGraph:
 ## Example Usage
 ### Input:
 ```bash
-python3 run_rag_graph.py
+python3 scripts/run_rag_graph.py
 ```
 Prompt: *"Who are the competitors of OpenAI in 2024?"*
 
