@@ -32,8 +32,8 @@ The architecture is designed using **LangChain, OpenAI API, and LangGraph**, ens
 ## Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/leem18/GraphRAG-LLM.git
+cd GraphRAG-LLM
 ```
 ### 2. Install Dependencies
 ```bash
