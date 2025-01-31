@@ -1,4 +1,4 @@
-# RAG Graph-Based Retrieval System
+# GraphRAG: Graph-Based Retrieval System
 
 ## Overview
 This repository implements a **Retrieval-Augmented Generation (RAG) pipeline** using a graph-based workflow. The system enhances question-answering by retrieving relevant documents, assessing their relevance, rewriting queries, and performing web searches when necessary.
