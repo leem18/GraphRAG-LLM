@@ -108,6 +108,3 @@ Prompt: *"Who are the competitors of OpenAI in 2024?"*
 - More advanced ranking and filtering of retrieved documents.
 - Expansion of dataset integration for better responses.
 
----
-This project is actively maintained and open for contributions!
-
